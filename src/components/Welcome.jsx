@@ -84,7 +84,7 @@ const Welcome = () => {
           100
         )}
       </p>
-      <h1 ref={titleRef} className="mt-7">
+      <h1 ref={titleRef} className="mt-7 text-[#f0400a] ">
         {renderText("Portfolio", "text-9xl italic font-georama")}
       </h1>
 

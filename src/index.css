@@ -181,11 +181,11 @@ body {
 
         li {
           .check {
-            @apply text-[#00A154] w-5;
+            @apply text-[#f0400a] w-5;
           }
 
           h3 {
-            @apply font-semibold text-[#00A154] w-32 ms-5;
+            @apply font-semibold text-[#f0400a] w-32 ms-5;
           }
 
           ul {
@@ -195,7 +195,7 @@ body {
       }
 
       .footnote {
-        @apply text-[#00A154] space-y-1;
+        @apply text-[#f0400a] space-y-1;
 
         p {
           @apply flex items-center;
